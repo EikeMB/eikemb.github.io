@@ -1,11 +1,9 @@
 ---
 title: "Hours Tracker"
-collection: publications
+collection: projects
 permalink: /publication/HoursTracker
 excerpt: 'This is a desktop app to keep track of work hours'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://github.com/EikeMB/HoursManaging'
 ---
 
 
