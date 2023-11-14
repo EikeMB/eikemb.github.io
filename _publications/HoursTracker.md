@@ -1,7 +1,7 @@
 ---
 title: "Work Hour Tracker"
-collection: projects
-permalink: /projects/HoursTracker
+collection: publications
+permalink: /publications/HoursTracker
 excerpt: 'This project is a desktop app to track work hours.'
 date: 2023-11-13
 paperurl: 'https://github.com/EikeMB/HoursManaging'
