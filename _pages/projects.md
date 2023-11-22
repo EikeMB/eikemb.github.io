@@ -1,5 +1,6 @@
 ---
 permalink: /projects
+title: "Projects"
 excerpt: "Projects"
 author_profile: true
 redirect_from: 
@@ -7,6 +8,14 @@ redirect_from:
   - /project.html
 ---
 
+
+
+
+---
+
+<br/>
+<br/>
+<br/>
 
 # Hour Tracking Application 🕒
 
@@ -40,7 +49,8 @@ This app makes use of C# WPF and SQL for the database connections.
 
 ---
 
-
+<br/>
+<br/>
 
 # Fruit Reviewing Website 🍓
 
