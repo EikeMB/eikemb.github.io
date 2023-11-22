@@ -1,6 +1,5 @@
 ---
 permalink: /projects
-title: "My Projects"
 excerpt: "Projects"
 author_profile: true
 redirect_from: 
@@ -39,6 +38,10 @@ This app makes use of C# WPF and SQL for the database connections.
 [View Project on Github](https://github.com/EikeMB/HoursManaging)
 
 
+---
+
+
+
 # Fruit Reviewing Website 🍓
 
 ## Website description
@@ -59,7 +62,7 @@ This web app was made using node.js for the server side, mongoDb for the databas
     <img style="border:5px solid black;" src="../images/FruitSignup.png" width="600">
 </div>
 <div>
-    <img style="border:5px solid black;" src="../images/FruitMAin.png" width="600">
+    <img style="border:5px solid black;" src="../images/FruitMain.png" width="600">
     <img style="border:5px solid black;" src="../images/FruitReview.png" width="600">
 </div>
 
