@@ -14,8 +14,6 @@ redirect_from:
 ---
 
 <br/>
-<br/>
-<br/>
 
 # Hour Tracking Application 🕒
 
