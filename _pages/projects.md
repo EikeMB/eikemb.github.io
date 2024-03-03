@@ -26,11 +26,14 @@ The Car Builder App is an interactive and user-friendly tool that empowers users
 This app was made using kotlin and the jetpack compose developpment toolkit.
 
 ### Pictures
-<img style="border:5px solid black;"  src="../images/CarMainPage.png" height="400">
-<img style="border:5px solid black;"  src="../images/CarBuilderPage.png" height="400">
-<img style="border:5px solid black;"  src="../images/CarProfilePage.png" height="400">
-<img style="border:5px solid black;"  src="../images/CarSignInPage.png" height="400">
-<img style="border:5px solid black;"  src="../images/CarAboutUsPage.png" height="400">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img style="border:5px solid black; margin: 5px;" src="../images/CarMainPage.png" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/CarBuilderPage.png" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/CarProfilePage.png" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/CarSignInPage.png" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/CarAboutUsPage.png" height="400">
+</div>
+
 
 [View Project on Github](https://github.com/EikeMB/AppDev2_Project)
 
