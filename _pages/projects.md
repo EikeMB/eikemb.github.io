@@ -15,6 +15,31 @@ redirect_from:
 
 <br/>
 
+
+# Car Builder App
+
+## App Description
+The Car Builder App is an interactive and user-friendly tool that empowers users to customize and visualize their dream cars. Whether you are a car enthusiast or someone looking to explore various car configurations, this app provides a seamless and engaging experience.
+
+## Technologies used
+
+This app was made using kotlin and the jetpack compose developpment toolkit.
+
+### Pictures
+<img style="border:5px solid black;"  src="../images/CarMainPage.png" height="400">
+<img style="border:5px solid black;"  src="../images/CarBuilderPage.png" height="400">
+<img style="border:5px solid black;"  src="../images/CarProfilePage.png" height="400">
+<img style="border:5px solid black;"  src="../images/CarSignInPage.png" height="400">
+<img style="border:5px solid black;"  src="../images/CarAboutUsPage.png" height="400">
+
+[View Project on Github](https://github.com/EikeMB/AppDev2_Project)
+
+
+---
+<br/>
+<br/>
+
+
 # Hour Tracking Application 🕒
 
 ## App Description
