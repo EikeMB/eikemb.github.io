@@ -45,18 +45,11 @@ hardware
 Scripting using
 PowerShell, Bash 
 
+Hardware - software communication using Modbus TCP protocol.
+
 ### Currently learning:
 
- * Android App
-Development using
-Kotlin 
-
-* Web Development using
-ASP .NET 
-
-* Game Development
-using JavaScript.
-
+ * DQMH developpment in LabVIEW
 
 ### Known programming languages:
 
@@ -68,7 +61,7 @@ SQL -
 Html -
 Css -
 JavaScript -
-React
+React - Kotlin - Python - Flutter - Dart - LabVIEW
 
 
 # 🏫Education
@@ -90,6 +83,14 @@ diploma (QAIS member with English School Board status)
 * Pre-primary to 5th grade.
 
 # 💼Job Experience
+
+2024 – date: Intern working with the R&D Engineering team at RheEnergise 
+
+* Using the Modbus TCP protocol to read and write from and to sensors or 
+other control units. 
+* Developing an interface in LabVIEW to automate the main control system 
+while also allowing manual control.
+
 
 2022 - 2023: Sailing instructor at AQVA (Association Québécoise de Voile Adaptée)
 
