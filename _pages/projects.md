@@ -60,11 +60,9 @@ This app makes use of C# WPF and SQL for the database connections.
 ### Pictures
 
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img style="border:5px solid black;"  src="../images/HoursOpen.png" width="600">
     <img style="border:5px solid black;" src="../images/HoursMain.png" width="600">
-</div>
-<div>
     <img style="border:5px solid black;" src="../images/HoursMainWeekly.png" width="600">
     <img style="border:5px solid black;" src="../images/HoursAdd.png" width="300">
 </div>
@@ -93,11 +91,9 @@ This web app was made using node.js for the server side, mongoDb for the databas
 ### Pictures
 
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img style="border:5px solid black;"  src="../images/FruitLogin.png" width="600">
     <img style="border:5px solid black;" src="../images/FruitSignup.png" width="600">
-</div>
-<div>
     <img style="border:5px solid black;" src="../images/FruitMain.png" width="600">
     <img style="border:5px solid black;" src="../images/FruitReview.png" width="600">
 </div>
