@@ -15,6 +15,32 @@ redirect_from:
 
 <br/>
 
+# Hour Logger App
+
+## App Description
+The hour logger app is a cross-platform app that allows a user to join or create an organization to which they can then log their work hours every day. This idea came to me out of necessity for a job in which the way the hours worked were being tracked was unecessarily hard.
+
+## Technologies used
+
+This app was made using Flutter and making use of firebase for authentication and database purposes.
+
+
+### Pictures
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img style="border:5px solid black; margin: 5px;" src="../images/home.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/org.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/range.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/day.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/select.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/start.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/end.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/break.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/login.jpg" height="400">
+    <img style="border:5px solid black; margin: 5px;" src="../images/join.jpg" height="400">
+</div>
+
+
+[View Project on Github](https://github.com/EikeMB/mobileHoursManager)
 
 # Car Builder App
 
