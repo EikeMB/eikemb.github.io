@@ -39,6 +39,7 @@ This app was made using Flutter and making use of firebase for authentication an
     <img style="border:5px solid black; margin: 5px;" src="../images/join.jpg" height="400">
 </div>
 
+The live web server deploy of this app can be found on [here](https://eikemb.github.io/hourlog)
 
 [View Project on Github](https://github.com/EikeMB/mobileHoursManager)
 
