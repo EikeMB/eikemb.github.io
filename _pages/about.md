@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-🎓 I am a third year Computer Science student at John Abbott College. (Hopefully my last year if all goes well 😉)
+🎓 I am a Software Developer with a Computer Science DEC degree from John Abbott College.
 
 ⛵ My hobbies include sailing which I have done for the past 11 years including as a coach. 
     Some other less hardcore hobbies are playing the guitar and playing video games.
 
-📱 A project that I am currently working on is converting one of my already created projects into a cross platform mobile app.
+📱 A project that I am currently working on is a mobile application that would take in a configuration file to create Modbus servers that would act as simulators for testing purposes. The app would allow for full control over the registers of that server.
 
 
 # 🧑‍💻Skills
@@ -46,10 +46,8 @@ Scripting using
 PowerShell, Bash 
 
 Hardware - software communication using Modbus TCP protocol.
+DQMH developpment in LabVIEW
 
-### Currently learning:
-
- * DQMH developpment in LabVIEW
 
 ### Known programming languages:
 
@@ -66,7 +64,7 @@ React - Kotlin - Python - Flutter - Dart - LabVIEW
 
 # 🏫Education
 
-2021 - current date (expected graduation in may 2024): John Abbott College, Computer Science program
+2021 - 2024: John Abbott College, Computer Science program
 
 * A program in which the students are taught the extensive knowledge of frontend and backend development 
 as well as learning about computer systems and there hardware. (https://johnabbott.qc.ca/career-programs/computer-science-technology)
