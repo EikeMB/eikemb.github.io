@@ -99,31 +99,3 @@ This app makes use of C# WPF and SQL for the database connections.
 [View Project on Github](https://github.com/EikeMB/HoursManaging)
 
 
----
-
-<br/>
-<br/>
-
-# Fruit Reviewing Website 🍓
-
-## Website description
-
-A web application that has a collection of fruits. Users must sign in and can then review the fruits and look at the review of others.
-
-This project was a school project that I did with another person for a web programming class. The inspiration for it came about when me and the other person would always argue about what fruits were the best.
-
-## Technologies used
-
-This web app was made using node.js for the server side, mongoDb for the database, and React for the frontend.
-
-### Pictures
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img style="border:5px solid black;"  src="../images/FruitLogin.png" width="600">
-    <img style="border:5px solid black;" src="../images/FruitSignup.png" width="600">
-    <img style="border:5px solid black;" src="../images/FruitMain.png" width="600">
-    <img style="border:5px solid black;" src="../images/FruitReview.png" width="600">
-</div>
-
-[View Project on Github](https://github.com/EikeMB/web2FruitProject)

@@ -22,13 +22,15 @@ redirect_from:
 Object Oriented
 Programming 
 
-Front-End Development,
+Front-End Development
 in WPF, React, HTML
 and CSS 
 
 Back-End Development
 in C# (using SQL for Data
 storing), Java 
+
+Mobile Application Develpment using Kotlin/Jetpack Compose, .Net Maui and Flutter/Dart
 
 Web Development using
 JavaScript (using
@@ -59,7 +61,7 @@ SQL -
 Html -
 Css -
 JavaScript -
-React - Kotlin - Python - Flutter - Dart - LabVIEW
+React - Kotlin - Python - Flutter - Dart - LabVIEW - Sturctured Text - Ladder Logic
 
 
 # 🏫Education
@@ -68,6 +70,8 @@ React - Kotlin - Python - Flutter - Dart - LabVIEW
 
 * A program in which the students are taught the extensive knowledge of frontend and backend development 
 as well as learning about computer systems and there hardware. (https://johnabbott.qc.ca/career-programs/computer-science-technology)
+
+* Recipient of the Dean's List / Honour Roll award for all of six semesters. (An award received for having a grade above 80% for the semester without a fail whilst being a full time student).
 
 2015/16 - 2020/21: Alexander von Humboldt German International School (AvH)
 
@@ -82,7 +86,7 @@ diploma (QAIS member with English School Board status)
 
 # 💼Job Experience
 
-2024 – date: Intern working with the R&D Engineering team at RheEnergise 
+2024 – date: Software Engineer Intern working with the R&D Engineering team at RheEnergise 
 
 * Using the Modbus TCP protocol to read and write from and to sensors or 
 other control units. 
