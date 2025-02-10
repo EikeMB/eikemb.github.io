@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-🎓 I am a Software Developer with a Computer Science DEC degree from John Abbott College.
+🎓 I am a Computer Science undegraduate student at Concordia University with a Computer Science DEC degree from John Abbott College.
 
 ⛵ My hobbies include sailing which I have done for the past 11 years including as a coach. 
     Some other less hardcore hobbies are playing the guitar and playing video games.
 
-📱 A project that I am currently working on is a mobile application that would take in a configuration file to create Modbus servers that would act as simulators for testing purposes. The app would allow for full control over the registers of that server.
+📱 A project that I am currently working on is a mobile application that would act as a help device while sailing by allowing the user to input where the start line is and the app helps by giving a countdown to the line and how much times needs to be burned to get to the start line on time.
 
 
 # 🧑‍💻Skills
@@ -65,6 +65,8 @@ React - Kotlin - Python - Flutter - Dart - LabVIEW - Sturctured Text - Ladder Lo
 
 
 # 🏫Education
+
+2024 - Present (2027): Concordia University, Computer Science Bachelors
 
 2021 - 2024: John Abbott College, Computer Science program
 
