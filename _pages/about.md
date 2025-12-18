@@ -21,7 +21,7 @@ and the timer, then based on the boat speed a estimate of how long you will need
 Object Oriented
 Programming
 
-Front-End Development,
+Front-End Development
 in WPF, React, HTML
 and CSS
 
