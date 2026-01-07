@@ -44,6 +44,8 @@ hardware
 Scripting using
 PowerShell, Bash
 
+Microcontroller programming using C
+
 Hardware - software communication using Modbus TCP, Profinet and EtherCAT protocol.
 DQMH developpment in LabVIEW
 
@@ -51,6 +53,8 @@ PLC development using structured text.
 
 ### Known programming languages:
 
+C -
+C++ -
 C# -
 Java -
 Bash -
@@ -59,7 +63,7 @@ SQL -
 Html -
 Css -
 JavaScript -
-React - Kotlin - Python - Flutter - Dart - LabVIEW - Structure Text
+React - Kotlin - Python - Flutter - Dart - LabVIEW - Structure Text - Clojure
 
 # 🏫Education
 
